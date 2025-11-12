@@ -20,7 +20,7 @@ struct student{
     char name[50];
     int marks[5];
 };
-int main(){
+int main() {
     int i;
     struct student s1;
     s1.roll=1;
