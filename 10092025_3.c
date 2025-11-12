@@ -1,3 +1,4 @@
+//WAP to input a number and print the corresponding day of the week. If the number is greater than 7, keep dividing it by 7 until it is less than or equal to 7.
 #include <stdio.h>
 int main()
     {

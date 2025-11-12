@@ -1,3 +1,5 @@
+//Variable swap using functions and minus plus operator
+//Quietly slid call by reference in this code snippet
 #include <stdio.h>
 void swap(int *, int *); 
 int main() {

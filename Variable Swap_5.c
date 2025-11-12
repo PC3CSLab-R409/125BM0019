@@ -1,3 +1,4 @@
+//Variable swap using single statement and bitwise XOR operator
 #include <stdio.h>
 int main() {
     int a, b;

@@ -1,3 +1,4 @@
+//Variable swap using array
 #include <stdio.h>
 int main() {
     int a, b, arr[2];

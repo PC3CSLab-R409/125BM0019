@@ -1,3 +1,4 @@
+//typecasting char to int
 #include<stdio.h>
 main()
 {

@@ -1,3 +1,4 @@
+//Separate even and odd numbers from an array
 #include <stdio.h>
 int main(){
     int n, x=0, y=0, i, num;

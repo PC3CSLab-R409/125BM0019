@@ -1,3 +1,4 @@
+//Smallest and largest number in an array of 10 elements
 #include <stdio.h>
 int main(){
     int i, arr[10], small, large;

@@ -1,3 +1,4 @@
+//Variable swap using single statement and plus minus operator
 #include <stdio.h>
 int main() {
     int a, b;
